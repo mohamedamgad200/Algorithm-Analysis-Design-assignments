@@ -1,0 +1,20 @@
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\BIG PROBLEMS\[P2] Integer Mult\[SOLUTION]\IntegerMultiplication\bin\Debug\IntegerMultiplication.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\BIG PROBLEMS\[P2] Integer Mult\[SOLUTION]\IntegerMultiplication\obj\Debug\IntegerMultiplication.csprojResolveAssemblyReference.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\BIG PROBLEMS\[P2] Integer Mult\[SOLUTION]\IntegerMultiplication\bin\Debug\IntegerMultiplication.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\BIG PROBLEMS\[P2] Integer Mult\[SOLUTION]\IntegerMultiplication\bin\Debug\IntegerMultiplication.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\BIG PROBLEMS\[P2] Integer Mult\[SOLUTION]\IntegerMultiplication\obj\Debug\IntegerMultiplication.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\BIG PROBLEMS\[P2] Integer Mult\[SOLUTION]\IntegerMultiplication\obj\Debug\IntegerMultiplication.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\BIG PROBLEMS\[P2] Integer Mult\[TEMPLATE]\IntegerMultiplication\bin\Debug\IntegerMultiplication.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\BIG PROBLEMS\[P2] Integer Mult\[TEMPLATE]\IntegerMultiplication\obj\Debug\IntegerMultiplication.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\BIG PROBLEMS\[P2] Integer Mult\[TEMPLATE]\IntegerMultiplication\obj\Debug\IntegerMultiplication.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\BIG PROBLEMS\[P2] Integer Mult\[TEMPLATE]\IntegerMultiplication\bin\Debug\IntegerMultiplication.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\BIG PROBLEMS\[P2] Integer Mult\[TEMPLATE]\IntegerMultiplication\bin\Debug\IntegerMultiplication.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\BIG PROBLEMS\[P2] Integer Mult\[TEMPLATE]\IntegerMultiplication\obj\Debug\IntegerMultiplication.csprojResolveAssemblyReference.cache
+D:\second semester\algo\project and assigments\problem1\[TEMPLATE]\IntegerMultiplication\obj\Debug\IntegerMultiplication.csproj.AssemblyReference.cache
+D:\second semester\algo\project and assigments\problem1\[TEMPLATE]\IntegerMultiplication\obj\Debug\IntegerMultiplication.csproj.SuggestedBindingRedirects.cache
+D:\second semester\algo\project and assigments\problem1\[TEMPLATE]\IntegerMultiplication\obj\Debug\IntegerMultiplication.csproj.CoreCompileInputs.cache
+D:\second semester\algo\project and assigments\problem1\[TEMPLATE]\IntegerMultiplication\obj\Debug\IntegerMultiplication.exe
+D:\second semester\algo\project and assigments\problem1\[TEMPLATE]\IntegerMultiplication\obj\Debug\IntegerMultiplication.pdb
+D:\second semester\algo\project and assigments\problem1\[TEMPLATE]\IntegerMultiplication\bin\Debug\IntegerMultiplication.exe.config
+D:\second semester\algo\project and assigments\problem1\[TEMPLATE]\IntegerMultiplication\bin\Debug\IntegerMultiplication.exe
+D:\second semester\algo\project and assigments\problem1\[TEMPLATE]\IntegerMultiplication\bin\Debug\IntegerMultiplication.pdb
